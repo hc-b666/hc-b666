@@ -4,11 +4,11 @@ Hi 👋 My name is Muhammadbobur
 Front-End Developer
 -------------------
 
-Hi, everyone! I am Muhammadbobur Abdukarimov, level 4 student at Westminster International University in Tashkent, specializing in Business Information Systems. Passionate about Front-End Development and currently honing skills in HTML, CSS, JavaScript and Node.js. Eager to explore Backend Development in the future to build a well-rounded skill set. Professional Free Fire gamer.
+Hi, everyone! I am Muhammadbobur Abdukarimov, level 4 student at Westminster International University in Tashkent, specializing in Business Information Systems. Passionate about Front-End Development and currently honing skills in HTML, CSS, JavaScript, React, NodeJS and ExpressJS.
 
 * 🌍  I'm based in Tashkent, Uzbekistan
 * ✉️  You can contact me at [bobur0218programmer@gmail.com](mailto:bobur0218programmer@gmail.com)
-* 🧠  I'm learning JavaScript, Node.js
+* 🧠  I'm learning JavaScript, React, Node.js and Express.js
 
 ### Skills
 
