@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammadbobur
 Front-End Developer
 -------------------
 
-Hi, everyone! I am Muhammadbobur Abdukarimov, level 4 student at Westminster International University in Tashkent, specializing in Business Information Systems. Passionate about Front-End Development and currently honing skills in HTML, CSS, JavaScript, React, NodeJS and ExpressJS.
+Hi, everyone! I am Muhammadbobur Abdukarimov, level 4 student at Westminster International University in Tashkent, specializing in Business Information Systems. Passionate about Front-End Development and currently honing skills in HTML, CSS, JavaScript, Typescript, React, NodeJS and ExpressJS.
 
 * 🌍  I'm based in Tashkent, Uzbekistan
 * ✉️  You can contact me at [bobur0218programmer@gmail.com](mailto:bobur0218programmer@gmail.com)
@@ -33,8 +33,9 @@ Hi, everyone! I am Muhammadbobur Abdukarimov, level 4 student at Westminster Int
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="express logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
