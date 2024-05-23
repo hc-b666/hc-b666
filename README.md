@@ -2,4 +2,4 @@ hello, world 👋 im Muhammadbobur
 
 HTML, CSS, JS, React, Tailwind, TS, NextJS
 
-Learning React Native
+Starting to learn React Native
