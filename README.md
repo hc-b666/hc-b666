@@ -11,9 +11,11 @@
   <samp>
     [HTML] .
     [CSS] .
+    [SCSS]
     [JavaScript] .
     [TypeScript] .
     [React] .
+    [Redux] .
     [Next] 
   </samp>
 </h6>
