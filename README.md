@@ -11,7 +11,7 @@
   <samp>
     [HTML] .
     [CSS] .
-    [SCSS]
+    [SCSS] .
     [JavaScript] .
     [TypeScript] .
     [React] .
