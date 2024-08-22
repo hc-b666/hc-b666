@@ -19,7 +19,7 @@
     [Next] 
   </samp>
 </h6>
-<h6 align="center">
+<!-- <h6 align="center">
   <samp>
     [Node] .
     [Express] .
@@ -27,4 +27,4 @@
     [MySQL] .
     [SQLite]
   </samp>
-</h6>
+</h6> -->
